@@ -1,0 +1,1 @@
+Este proyecto consiste en una API RESTful desarrollada en Node.js que facilita la gestión de empleados en una empresa. Utilizando la arquitectura REST, la API permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre los datos de los empleados, ofreciendo una forma eficiente de manejar la información en una base de datos.
